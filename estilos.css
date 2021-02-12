@@ -185,7 +185,7 @@ a:hover {
   border: 3px solid #A2D9CE;
   }
 
-  .cuadrop1 {
+    .cuadrop1 {
 position: relative;
 top: 10%;
 left: 15%;
@@ -266,7 +266,7 @@ font-size: 110%;
   }
 
 
-  .letraentrega31{
+    .letraentrega31{
 position: absolute;
 top: 80%;
 left: 5%;
@@ -280,8 +280,7 @@ left: 35%;
 font-family: Merriweather; 
 font-size: 110%;
 }
-.botonentrega3
-{
+.botonentrega3{
   top: 450px;
   position: relative;
   left: 250px;
