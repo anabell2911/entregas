@@ -232,3 +232,34 @@ font-size: 110%;
 	top: 60px;
 	left: 600px;
 }
+.letrasemana341{
+position: absolute;
+top: 50%;
+left: 5%;
+background-color: #F5D3E5;
+font-family: Merriweather; 
+}
+.letrasemana343{
+position: absolute;
+top: 50%;
+left: 25%;
+font-family: Merriweather; 
+font-size: 110%;
+}
+.botonsemana4{
+  top: 200px;
+  position: relative;
+  left: 250px;
+  height: 40px;
+  width: 180px;
+  border-radius: 35%;
+  text-decoration: solid;
+  text-emphasis-style: double-circle;
+  padding: 7px;
+  font-weight: 600px;
+  font-size: 20px;
+  color: #323132;
+  background-color: white;
+  border-radius: 5px;
+  border: 3px solid #F5CBA7 ;
+  }
