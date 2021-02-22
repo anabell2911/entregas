@@ -185,12 +185,12 @@ a:hover {
   border: 3px solid #A2D9CE;
   }
 
-    .cuadrop1 {
+  .cuadrop1 {
 position: relative;
 top: 10%;
 left: 15%;
 width: 70%;
-height: 100%;
+height: 120%;
 background: white;
 border-radius : 12px;
 border: 3px solid #A2D9CE;
@@ -235,20 +235,20 @@ font-size: 110%;
 
 .letrasemana341{
 position: absolute;
-top: 50%;
+top: 35%;
 left: 5%;
 background-color: #F5D3E5;
 font-family: Merriweather; 
 }
 .letrasemana343{
 position: absolute;
-top: 50%;
+top: 35%;
 left: 25%;
 font-family: Merriweather; 
 font-size: 110%;
 }
 .botonsemana4{
-  top: 320px;
+  top: 290px;
   position: relative;
   left: 250px;
   height: 40px;
@@ -266,22 +266,54 @@ font-size: 110%;
   }
 
 
-    .letraentrega31{
+  .letraentrega31{
 position: absolute;
-top: 80%;
+top: 55%;
 left: 5%;
 background-color: #F5D3E5;
 font-family: Merriweather; 
 }
 .letraentrega32{
 position: absolute;
-top: 80%;
+top: 55%;
 left: 35%;
 font-family: Merriweather; 
 font-size: 110%;
 }
 .botonentrega3{
-  top: 450px;
+  top: 385px;
+  position: relative;
+  left: 250px;
+  height: 40px;
+  width: 260px;
+  border-radius: 35%;
+  text-decoration: solid;
+  text-emphasis-style: double-circle;
+  padding: 7px;
+  font-weight: 600px;
+  font-size: 20px;
+  color: #323132;
+  background-color: white;
+  border-radius: 5px;
+  border: 3px solid #F5CBA7 ;
+  }
+
+  .letraparcial1{
+position: absolute;
+top: 70%;
+left: 5%;
+background-color: #F5D3E5;
+font-family: Merriweather; 
+}
+.letraparcial2{
+position: absolute;
+top: 70%;
+left: 25%;
+font-family: Merriweather; 
+font-size: 110%;
+}
+.botonparcial{
+  top: 455px;
   position: relative;
   left: 250px;
   height: 40px;
