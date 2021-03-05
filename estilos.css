@@ -190,7 +190,7 @@ position: relative;
 top: 10%;
 left: 15%;
 width: 70%;
-height: 120%;
+height: 150%;
 background: white;
 border-radius : 12px;
 border: 3px solid #A2D9CE;
@@ -314,6 +314,41 @@ font-size: 110%;
 }
 .botonparcial{
   top: 455px;
+  position: relative;
+  left: 250px;
+  height: 40px;
+  width: 260px;
+  border-radius: 35%;
+  text-decoration: solid;
+  text-emphasis-style: double-circle;
+  padding: 7px;
+  font-weight: 600px;
+  font-size: 20px;
+  color: #323132;
+  background-color: white;
+  border-radius: 5px;
+  border: 3px solid #F5CBA7 ;
+  }
+
+
+
+
+  .semana7{
+position: absolute;
+top: 80%;
+left: 5%;
+background-color: #F5D3E5;
+font-family: Merriweather; 
+}
+.semana72{
+position: absolute;
+top: 80%;
+left: 25%;
+font-family: Merriweather; 
+font-size: 110%;
+}
+.botonSEMANA7{
+  top: 540px;
   position: relative;
   left: 250px;
   height: 40px;
