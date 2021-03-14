@@ -190,7 +190,7 @@ position: relative;
 top: 10%;
 left: 15%;
 width: 70%;
-height: 150%;
+height: 120%;
 background: white;
 border-radius : 12px;
 border: 3px solid #A2D9CE;
@@ -250,7 +250,7 @@ font-size: 110%;
 .botonsemana4{
   top: 290px;
   position: relative;
-  left: 250px;
+  left: 240px;
   height: 40px;
   width: 180px;
   border-radius: 35%;
@@ -265,25 +265,10 @@ font-size: 110%;
   border: 3px solid #F5CBA7 ;
   }
 
-
-  .letraentrega31{
-position: absolute;
-top: 55%;
-left: 5%;
-background-color: #F5D3E5;
-font-family: Merriweather; 
-}
-.letraentrega32{
-position: absolute;
-top: 55%;
-left: 35%;
-font-family: Merriweather; 
-font-size: 110%;
-}
 .botonentrega3{
-  top: 385px;
+  top: 355px;
   position: relative;
-  left: 250px;
+  left: 55px;
   height: 40px;
   width: 260px;
   border-radius: 35%;
@@ -298,24 +283,11 @@ font-size: 110%;
   border: 3px solid #F5CBA7 ;
   }
 
-  .letraparcial1{
-position: absolute;
-top: 70%;
-left: 5%;
-background-color: #F5D3E5;
-font-family: Merriweather; 
-}
-.letraparcial2{
-position: absolute;
-top: 70%;
-left: 25%;
-font-family: Merriweather; 
-font-size: 110%;
-}
+
 .botonparcial{
-  top: 455px;
+  top: 420px;
   position: relative;
-  left: 250px;
+  left: -210px;
   height: 40px;
   width: 260px;
   border-radius: 35%;
@@ -330,24 +302,28 @@ font-size: 110%;
   border: 3px solid #F5CBA7 ;
   }
 
-  .semana7{
-position: absolute;
-top: 80%;
-left: 5%;
-background-color: #F5D3E5;
-font-family: Merriweather; 
-}
-.semana72{
-position: absolute;
-top: 80%;
-left: 25%;
-font-family: Merriweather; 
-font-size: 110%;
-}
 .botonSEMANA7{
-  top: 540px;
-  position: relative;
-  left: 250px;
+  top: 535px;
+  position: absolute;
+  left: 240px;
+  height: 40px;
+  width: 260px;
+  border-radius: 35%;
+  text-decoration: solid;
+  text-emphasis-style: double-circle;
+  padding: 7px;
+  font-weight: 600px;
+  font-size: 20px;
+  color: #323132;
+  background-color: white;
+  border-radius: 5px;
+  border: 3px solid #F5CBA7 ;
+  }
+
+  .botonSEMANA8{
+  top: 603px;
+  position: absolute;
+  left: 240px;
   height: 40px;
   width: 260px;
   border-radius: 35%;
